@@ -1,0 +1,23 @@
+.idea
+
+# C extensions
+*.so
+*.py[cod]
+*.egg
+*.egg-info
+
+
+
+#self
+*.mp4
+*.png
+*.jpg
+*.pth
+*.gif
+*.txt
+
+FairMOT/exp/*
+FairMOT/src/lib/models/networks/DCNv2/DCNv2.egg-info/*
+FairMOT/src/lib/models/networks/DCNv2/build/*
+
+!FairMOT/requirements.txt
